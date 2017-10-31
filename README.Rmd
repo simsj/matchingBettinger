@@ -1,0 +1,13 @@
+---
+title: ""
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The matchingBettinger project  
+This project illustrates the problems novice genetic genealogist can encounter when they lower the DNA matching thresholds of the  One-to-One match tool at GEDmatch below the default settings.  
